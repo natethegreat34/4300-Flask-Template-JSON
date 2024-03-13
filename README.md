@@ -1,6 +1,10 @@
 # 4300-Flask-Template-JSON
 
+## Students working on the project:
+- Najiullah Basharat (sb2286)
+
 ## Contents
+
 
 - [Summary](#summary)
 - [Deploying on the server](#deploying-on-the-server )
